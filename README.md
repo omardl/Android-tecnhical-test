@@ -1,4 +1,4 @@
-### Prueba técnica para el puesto de Desarrollador Junior de Android y Kotlin
+## Prueba técnica para el puesto de Desarrollador Junior de Android y Kotlin
 
 ### Requisitos de la prueba:
 - Uso de Kotlin, Jetpack Compose y arquitectura MVI
